@@ -1,0 +1,8 @@
+Adi
+3 3
+5
+Coordinate 4 5
+Coordinate 4 3
+Float 2.5
+Integer 3
+Coordinate 7 2

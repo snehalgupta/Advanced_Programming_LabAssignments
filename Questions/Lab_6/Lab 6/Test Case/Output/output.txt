@@ -1,0 +1,18 @@
+1 Adi 3 3
+OverlapException: Knights Overlap Exception Stephen
+1 Alice 1 5
+NonCoordinateException: Not a coordinate Exception 5
+2 Adi 7 2
+NonCoordinateException: Not a coordinate Exception 3
+2 Alice 1 5
+No exception 2 3
+3 Adi 7 2
+NonCoordinateException: Not a coordinate Exception 2.5
+3 Alice 2 3
+NonCoordinateException: Not a coordinate Exception lol
+4 Adi 7 2
+No exception 4 3
+4 Alice 2 3
+StackEmptyException: Stack Empty exception
+5 Adi 4 3
+QueenFoundException: Queen has been Found. Abort!
